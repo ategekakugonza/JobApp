@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662932652963",
+    "project_id": "jobapp-8f013",
+    "storage_bucket": "jobapp-8f013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662932652963:android:331768ab247d30d0f39016",
+        "android_client_info": {
+          "package_name": "com.kugonza.apps.jobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662932652963-7ng1q6eb73f3m81hlf3qe2cn9n2aqrj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfVToBKO03VL9gPyKsF8-0TI9Fmxgn3fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662932652963-7ng1q6eb73f3m81hlf3qe2cn9n2aqrj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

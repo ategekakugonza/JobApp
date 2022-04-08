@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:paddingBottom="5dp"
+    android:fontFamily="@font/myfontstyle"
+    tools:context=".HomeScreen">
+
+    <ScrollView
+        android:id="@+id/ee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/layout"
+            android:layout_width="match_parent"
+            android:layout_margin="15dp"
+            android:orientation="vertical"
+            android:background="@color/black"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/jobImageHolder"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/new_bg"
+                android:scaleType="centerCrop"
+                android:src="@drawable/img_kin" />
+
+
+
+        </LinearLayout>
+
+
+
+
+
+    </ScrollView>
+
+
+</RelativeLayout>
